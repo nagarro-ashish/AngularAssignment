@@ -1,0 +1,20 @@
+[
+    {
+        "firstName": "Ashish",
+        "lastName": "Sabal",
+        "registrationNumber": 987654321,
+        "mobileNumber": 7065359643,
+        "address": "x y z",
+        "pickupDate": "17-02-2019",
+        "returnDate": "28-03-2019"
+    },
+    {
+        "firstName": "Manish",
+        "lastName": "Banga",
+        "registrationNumber": 111111111,
+        "mobileNumber": 9999999999,
+        "address": "p q r",
+        "pickupDate": "23-11-2018",
+        "returnDate": "15-05-2019"
+    }
+]
